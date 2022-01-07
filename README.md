@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Larissa Queiroz
 - 🔭 Atualmente, estou trabalhando com sistemas embarcados em um projeto de aplicação médica no [NEPEN](https://www.linkedin.com/in/n%C3%BAcleo-de-estudos-e-pesquisas-do-norte-e-nordeste-nepen-085771192/).
-- 🌱 Estudando Ciência de Dados, começando pelo aprofundamento em Python.
+- 🌱 Estudando Ciência de Dados.
 
  <div>
   <a href="https://github.com/larisqueiroz">
