@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Larissa Queiroz
-- 🔭 Atualmente, estou trabalhando com desenvolvimento backend no [NEPEN](https://www.linkedin.com/in/n%C3%BAcleo-de-estudos-e-pesquisas-do-norte-e-nordeste-nepen-085771192/).
-- 🌱 Trabalhando e me aprofundando em .Net, banco de dados e mensageria.
+- 🌱 Trabalhando e me aprofundando em .Net, Django, banco de dados e mensageria.
 
  <div>
   <a href="https://github.com/larisqueiroz">
@@ -17,7 +16,7 @@
   ##
  
 ### 🛠 Habilidades:
-  C#&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;.NET&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;DLMS (básico)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Mensageria MQTT
+  C#&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;.NET&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Django&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Mensageria
 ### 📫 Contato:
 
 <div>
